@@ -1,11 +1,11 @@
 # Site settings
 author: Alyssa Yesilyurt
-title: Introduction to Programming
+title: Alyssa Yesilyurt
 header-img: img/home-bg.png
 email: alyssa.yesilyurt@gmail.com
 copyright_name: Alyssa Yesilyurt
 description: > # this means to ignore newlines until "baseurl:"
-  Programming
+  Software Development 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alyssa001
