@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I Decided to Become a Software Developer"
+title:      "Why I Learned to Code"
 date:       2019-06-19 11:32:04 -0400
 permalink:  why_im_becoming_a_software_developer
 ---
