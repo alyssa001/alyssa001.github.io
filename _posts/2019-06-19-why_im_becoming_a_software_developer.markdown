@@ -1,13 +1,20 @@
 ---
 layout: post
 title:      "Why I'm Becoming A Software Developer?"
-date:       2019-06-19 15:32:03 +0000
+date:       2019-06-19 11:32:04 -0400
 permalink:  why_im_becoming_a_software_developer
 ---
 
 
 
-     My name is Alyssa Yesilyurt and I decided to become a software developer about two years ago. At the moment I am enrolled in a Computer Engineering-B.S. degree at Florida International University but as far as software engineering goes, the program teaches very little as far as developer skills and only touches on the basics of Java and C++. I was interested to study software development when I started a basic Python book and I started searching for free online courses. I even completed most of the Python and JavaScript modules at Codecademy but it wasn't enough to get me job-ready or even to land a basic internship. My major had previously been Computer Science after graduating high school, but I had to put off my studies for awhile due to financial issues and that made me to lose focus of what I wanted. I always kept trying on my own to create something and finish tutorials but it was very basic compared to my idea for an app that I wanted to make. 
+     My name is Alyssa Yesilyurt and two years ago I made the decision to become a software developer. I am currently enrolled in a Computer Engineering-B.S. degree at Florida International University but I wanted to find something that would get me work-ready in a shorter timeframe since I still have two years left for my degree. 
 		 
-		 Before starting FlatIron School I considered many career options but none of them called my attention. The majority of my work experience is in fields unrelated to my field of interest and after moving and starting a new job as a receptionist I met some locals who had gone through FlatIron and they recommended it to me. I am very optimistic about this course and I feel that this was the push I needed in the right direction to be able to work in my field and gain relevant experience. 
+		 My family is Cuban and I am both first-generation born in the US and first-generation college student. I am the first person in my immediate family to graduate with a degree. Some background about me, I am very ambitious and when I put my mind to something I will achieve it. Seeing how my family came to this country with nothing and built their lives well-enough to give me the opportunity to study whatever I want makes me more motivated to succeed in my chosen field. 
+		 
+		 Like most people, when I graduated high school I did consider an alternate career ~ a medical career ~ briefly and I also took some basic coding classes on the side since I was undecided if I wanted to go into the medical field or into engineering. Due to financial constraints I was unable to study for two years and my education was delayed, something that made me very frustrated and made me abandon the thought of studying engineering. 
+		 
+		 Once outside of the financial issue, I went to Istanbul, Turkey, for one year in order to learn the language and to give myself a break and a much-needed vacation. My major was English-Turkish Translation for the year since my focus was to learn the language. Since I knew that it was temporary, I spent a lot of time considering different career options and I once again came to an impasse about medicine or engineering. After returning to the US and being exposed to software engineering by friends and research, I decided to focus on software engineering.
+		 
+		 I spent maybe one year only focused on finishing Python books, doing React Tutorials, learning HTML & CSS, and JavaScript. I only decided to do FlatIron once I graduated with my AA in Computer Science and I saw how my skills were nowhere close to "job-ready". I am extremely happy I decided to do it as I have seen many success stories and I am excited to get through the course. 
+
 
