@@ -7,12 +7,15 @@ permalink:  my_first_gem_seyyah
 
 
 **Summary**
+
 After one month as a FlatIron student, I came to the moment of creating my first project, a CLI Ruby Gem. For this project, I chose to create a gem that would scrape information from LonelyPlanet. I named my gem 'Seyyah' as it actually means 'Traveler' in Turkish. The idea was to have my CLI provide a user with a list of regions around the world and the user would make a selection from those regions. After a user selects a region, they will be provided with a description of the region and the top 10 most popular countries in that region and asked to select a country to learn more about it. Once a country is selected, the user will see a detailed summary of that country as well as the top cities in that country. 
 
 **Planning**
+
 Most of my original planning and notes evolved as the project progressed, especially when I inspected the HTML elements of the web page I wanted to scrape. Originally, I had planned for the gem to go several levels deep, scraping all the available countries in that region, not just the most popular destinations, but as that would require my program to scrape over 50 web pages, I discarded that idea and stuck with only the most popular destinations. 
 
 **The Beginning**
+
 I chose to use a local environment for my gem and I created my gem with bundler from the terminal. I used Visual Studio Code for my program as it is free and has many useful extensions available for download. I originally started coding my classes and left the CLI interface for last. I started with scraping the web pages and because I wanted to present the regions and countries in an ordered list, I used repl.it to check the output of the functions I wrote to scrape the pages. I decided not to include modules in my program and stuck with classes that called on each other. The original gem before refactoring ended up being too long and I decided to finish writing it before making the program more concise and neat. Since I waited until the end to refactor the program, I had a very clear idea of what items relied on each other and I was able to work more effectively. 
 
 The general set-up for my program was as follows: 
@@ -22,6 +25,7 @@ The general set-up for my program was as follows:
             --> Country Description & Top 10 Cities by Country *
 						
 **Creation**
+
 I chose to create my files as follows: 
 * cli.rb --> contains my CLI interface
 * regions.rb --> scrapes the initial webpage and returns the countries
@@ -48,4 +52,5 @@ def self.regions(url)
 ```
 
 **Conclusion**
+
 I am still working on refactoring my code into something more elegant and concise and I plan to include a few more levels of scraping to continue practicing with Ruby. Eventually I hope to extend my program to include all the countries in the regions and to include the top tourist destinations and their cost as well. I enjoyed my first project very much and now I'm just waiting for the project assessment to get some feedback on how I can improve my code. 
